@@ -44,6 +44,6 @@ Reproduce: `make bench` (TODO day 9).
 
 ## Status
 
-Day 0 scaffold — see [BUILDLOG.md](BUILDLOG.md) for the 14-day public build. Design doc: [DESIGN.md](DESIGN.md). Roadmap: [ROADMAP.md](ROADMAP.md).
+Day 0 scaffold — see [BUILDLOG.md](BUILDLOG.md) for the 14-day public build. Design doc: [DESIGN.md](DESIGN.md). Roadmap: [ROADMAP.md](ROADMAP.md). Integrations & provider strategy: [INTEGRATIONS.md](INTEGRATIONS.md).
 
 License: MIT (decide day 1).
