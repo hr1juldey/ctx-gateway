@@ -21,7 +21,7 @@ Agents fail on real business processes not because models are weak, but because 
 
 ## Why
 
-In production at a consumer-health organization (~500 people), the pattern behind this repo cut organization-wide LLM token consumption by ~93% — from ₹20 lakh-equivalent per week to ₹5–6 lakh-equivalent per month — while the platform became the default way agents access internal tools. This repo is the clean-room, open-source core of that architecture: same ideas, fresh code, reproducible benchmarks.
+In production at a consumer-health organization, the pattern behind this repo cut organization-wide LLM token consumption by **~93%** — a 15× reduction — while the platform became the default way agents access internal tools. This repo is the clean-room, open-source core of that architecture: same ideas, fresh code, reproducible benchmarks.
 
 ## Quickstart
 
